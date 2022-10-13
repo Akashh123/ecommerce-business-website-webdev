@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\91906\\Documents\\Data Structure"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\C++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "c",
+			"string": "c",
+			"string_view": "c",
+			"malloc.h": "c",
+			"DFS.C": "cpp",
+			"stdio.h": "c",
+			"stackfile.h": "c",
+			"iostream": "cpp"
+		}
+	}
+}
